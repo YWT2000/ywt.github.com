@@ -11,7 +11,7 @@
       <p><b>地址：湖北省宜昌市宜都市陆城镇车家店村一组</b></p>
     </td>
     <td width="25%">
-      <img src="/欢迎扫描.jpg" width="100%">      C:\Users\Administrator\Documents\Scanned Documents
+      <img src="/欢迎扫描.jpg" width="100%">      %C:\Users\Administrator\Documents\Scanned Documents
     </td>
   </tr>
 </table>
